@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spottify-search-/static/css/main.e8dfc687.css",
+    "main.js": "/spottify-search-/static/js/main.5c064bdf.js",
+    "static/media/background_photo_desktop.jpg": "/spottify-search-/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/spottify-search-/index.html",
+    "main.e8dfc687.css.map": "/spottify-search-/static/css/main.e8dfc687.css.map",
+    "main.5c064bdf.js.map": "/spottify-search-/static/js/main.5c064bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8dfc687.css",
+    "static/js/main.5c064bdf.js"
+  ]
+}
